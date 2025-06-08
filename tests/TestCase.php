@@ -2,9 +2,9 @@
 
 namespace Huge10\Slcl\Tests;
 
+use Huge10\Slcl\SlclServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Huge10\Slcl\SlclServiceProvider;
 
 class TestCase extends Orchestra
 {

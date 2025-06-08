@@ -2,9 +2,9 @@
 
 namespace Huge10\Slcl;
 
+use Huge10\Slcl\Commands\SlclCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Huge10\Slcl\Commands\SlclCommand;
 
 class SlclServiceProvider extends PackageServiceProvider
 {
